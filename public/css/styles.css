@@ -18,10 +18,7 @@ body {
     line-height: 1.4;
     color: #333333;
     font-family: Helvetica, Arial, sans-serif;
-    background-image: url(../img/bg.jpg);
-    background-position: center;
-    background-size: cover;
-    position: relative;    
+    
 }
 
 h1 {
