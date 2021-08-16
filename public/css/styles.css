@@ -15,11 +15,11 @@ input {
 }
 
 body {
-    line-height: 1.4;
     color: #333333;
     font-family: Helvetica, Arial, sans-serif;
-    background-image: url(../img/p.jpg);
+    background-image: url(../img/bg.jpg);
     background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
